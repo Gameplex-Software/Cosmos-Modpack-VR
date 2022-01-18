@@ -1,4 +1,4 @@
-# CosMos Modpack VR
+# Cosmos Modpack VR
 
 ## This project is currently mac only!
 
