@@ -1,57 +1,693 @@
-[13:55:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:55:36] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:55:36] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
-[13:55:36] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
-[13:55:36] [main/INFO] [FML]: Java is OpenJDK 64-Bit Server VM, version 1.8.0_242, running on Mac OS X:x86_64:10.16, installed at /Users/tristanpoland/Library/Application Support/gdlauncher_next/java/8u242-b08
-[13:55:36] [main/INFO] [FML]: Searching /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Cruel-World-Survival-Cruel-World-War/mods for mods
-[13:55:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
-[13:55:36] [main/INFO] [FML]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
-[13:55:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.65_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[13:55:36] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:55:36] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
-[13:55:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in EntityCulling-1.12.2-4.1.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[13:55:36] [main/WARN] [FML]: The coremod EntityCullingPlugin (meldexun.entityculling.plugin.EntityCullingPlugin) is not signed!
-[13:55:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from fancymenu_2.3.5_MC_1.12-1.12.2.jar
-[13:55:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from konkrete_1.3.0_MC_1.12-1.12.2.jar
-[13:55:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.34_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[13:55:36] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:55:36] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
-[13:55:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from movingworld-1.12-6.353-full.jar
-[13:55:36] [main/INFO] [FML]: Loading tweaker optifine.OptiFineForgeTweaker from OptiFine_1.12.2_HD_U_G5.jar
-[13:55:36] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.2.jar
-[13:55:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_21.20.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[13:55:36] [main/WARN] [FML]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
-[13:55:36] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.18.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
-[13:55:36] [main/WARN] [FML]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
-[13:55:36] [main/WARN] [FML]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:55:36] [main/WARN] [FML]: The coremod IELoadingPlugin (blusunrize.immersiveengineering.common.asm.IELoadingPlugin) is not signed!
-[13:55:36] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:55:36] [main/INFO] [LaunchWrapper]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
-[13:55:36] [main/INFO] [mixin]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/Users/tristanpoland/Library/Application%20Support/gdlauncher_next/instances/Cruel-World-Survival-Cruel-World-War/mods/_MixinBootstrap-1.1.0.jar Service=LaunchWrapper Env=CLIENT
-[13:55:37] [main/WARN] [FML]: The coremod de.keksuccino.fancymenu.core.FMCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:55:37] [main/WARN] [FML]: The coremod FMCore (de.keksuccino.fancymenu.core.FMCore) is not signed!
-[13:55:37] [main/INFO] [STDOUT]: [de.keksuccino.fancymenu.core.FMCore:<init>:15]: [FANCYMENU] LOADING CORE PLUGIN!
-[13:55:37] [main/WARN] [FML]: The coremod de.keksuccino.konkrete.core.KonkreteCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:55:37] [main/WARN] [FML]: The coremod KonkreteCore (de.keksuccino.konkrete.core.KonkreteCore) is not signed!
-[13:55:37] [main/INFO] [STDOUT]: [de.keksuccino.konkrete.core.KonkreteCore:<init>:14]: [KONKRETE] LOADING CORE PLUGIN!
-[13:55:37] [main/INFO] [STDOUT]: [de.keksuccino.konkrete.core.MixinConfigLoader:loadConfigs:29]: [KONKRETE] Loading Mixin Config: fancymenu.general.mixin.json
-[13:55:37] [main/INFO] [mixin]: Compatibility level set to JAVA_8
-[13:55:37] [main/WARN] [FML]: The coremod com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
-[13:55:37] [main/WARN] [FML]: The coremod MovingWorldCore (com.elytradev.movingworld.common.asm.coremod.MovingWorldCoreMod) is not signed!
-[13:55:37] [main/ERROR] [mixin]: Mixin config mixins.movingworld.json does not specify "minVersion" property
-[13:55:37] [main/WARN] [FML]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
-[13:55:37] [main/INFO] [LaunchWrapper]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
-[13:55:37] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[13:55:37] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[13:55:37] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[13:55:37] [main/INFO] [LaunchWrapper]: Loading tweak class name optifine.OptiFineForgeTweaker
-[13:55:37] [main/WARN] [LaunchWrapper]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
-[13:55:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
-[13:55:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:55:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
-[13:55:37] [main/INFO] [LaunchWrapper]: Calling tweak class optifine.OptiFineForgeTweaker
-[13:55:37] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
-[13:55:37] [main/INFO] [STDOUT]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
-[13:55:37] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
-[13:55:37] [main/INFO] [STDOUT]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: /Users/tristanpoland/Library/Application Support/gdlauncher_next/instances/Cruel-World-Survival-Cruel-World-War/mods/OptiFine_1.12.2_HD_U_G5.jar
-[13:55:37] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:02] [main/INFO]: Loading tweak class name org.vivecraft.tweaker.MinecriftForgeTweaker
+[14:39:02] [main/INFO]: Using primary tweak class name org.vivecraft.tweaker.MinecriftForgeTweaker
+[14:39:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:39:02] [main/INFO]: Loading tweak class name optifine.OptiFineForgeTweaker
+[14:39:02] [main/INFO]: Calling tweak class org.vivecraft.tweaker.MinecriftForgeTweaker
+[14:39:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:39:02] [main/INFO]: Forge Mod Loader version 14.23.5.2854 for Minecraft 1.12.2 loading
+[14:39:02] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_51, running on Windows 10:amd64:10.0, installed at C:\Users\gamep\curseforge\minecraft\Install\runtime\jre-legacy\windows-x64\jre-legacy
+[14:39:02] [main/INFO]: Searching C:\Users\gamep\Documents\GitHub\Cosmos-Modpack-VR\mods for mods
+[14:39:02] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _MixinBootstrap-1.1.0.jar
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in AdvancedRocketry-1.12.2-1.7.0-232-universal.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod AdvancedRocketryPlugin (zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin) is not signed!
+[14:39:02] [main/INFO]: Loading tweaker guichaguri.betterfps.tweaker.BetterFpsTweaker from BetterFps-1.4.8.jar
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.65_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in EntityCulling-1.12.2-4.1.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod EntityCullingPlugin (meldexun.entityculling.plugin.EntityCullingPlugin) is not signed!
+[14:39:02] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from fancymenu_2.2.2-1_MC_1.12-1.12.2.jar
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ForgeEndertech-1.12.2-4.5.5.0-build.0561.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod com.endertech.minecraft.forge.coremod.CorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod CorePlugin (com.endertech.minecraft.forge.coremod.CorePlugin) is not signed!
+[14:39:02] [main/WARN]: The coremod ivorius.ivtoolkit.IvToolkitLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod IvToolkit (ivorius.ivtoolkit.IvToolkitLoadingPlugin) is not signed!
+[14:39:02] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from konkrete_1.1.7_MC_1.12-1.12.2.jar
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.27_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[14:39:02] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from malisiscore-1.12.2-6.5.1.jar
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in OpenComputers-MC1.12.2-1.7.5.192.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod li.cil.oc.common.launch.TransformerLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod TransformerLoader (li.cil.oc.common.launch.TransformerLoader) is not signed!
+[14:39:02] [main/INFO]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from particleculling-1.12.2-v1.0.1.jar
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in PerfectSpawn-MC1.12.2-2.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod lumien.perfectspawn.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod LoadingPlugin (lumien.perfectspawn.asm.LoadingPlugin) is not signed!
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in ResourceLoader-MC1.12.1-1.5.3.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod lumien.resourceloader.asm.LoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in UpAndDownAndAllAround-1.12.2-2.9.1.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod uk.co.mysterymayhem.gravitymod.asm.FMLLoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod mysttmtgravitymod (uk.co.mysterymayhem.gravitymod.asm.FMLLoadingPlugin) is not signed!
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in Xaeros_Minimap_21.16.0_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod XaeroMinimapPlugin (xaero.common.core.XaeroMinimapPlugin) is not signed!
+[14:39:02] [main/WARN]: Found FMLCorePluginContainsFMLMod marker in XaerosWorldMap_1.17.0.1_Forge_1.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[14:39:02] [main/WARN]: The coremod XaeroWorldMapPlugin (xaero.map.core.XaeroWorldMapPlugin) is not signed!
+[14:39:02] [main/WARN]: The coremod blusunrize.immersiveengineering.common.asm.IELoadingPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:02] [main/WARN]: The coremod IELoadingPlugin (blusunrize.immersiveengineering.common.asm.IELoadingPlugin) is not signed!
+[14:39:02] [main/INFO]: Calling tweak class optifine.OptiFineForgeTweaker
+[14:39:02] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: acceptOptions
+[14:39:02] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: injectIntoClassLoader
+[14:39:02] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ClassTransformer
+[14:39:02] [main/INFO]: [optifine.OptiFineClassTransformer:dbg:242]: OptiFine ZIP file: C:\Users\gamep\AppData\Roaming\.minecraft\libraries\optifine\OptiFine\1.12.2_HD_U_F5_LIB\OptiFine-1.12.2_HD_U_F5_LIB.jar
+[14:39:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:39:02] [main/INFO]: Loading tweak class name org.spongepowered.asm.launch.MixinTweaker
+[14:39:02] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/C:/Users/gamep/Documents/GitHub/Cosmos-Modpack-VR/mods/_MixinBootstrap-1.1.0.jar Service=LaunchWrapper Env=CLIENT
+[14:39:03] [main/DEBUG]: Instantiating coremod class FMCore
+[14:39:03] [main/WARN]: The coremod de.keksuccino.fancymenu.core.FMCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:03] [main/WARN]: The coremod FMCore (de.keksuccino.fancymenu.core.FMCore) is not signed!
+[14:39:03] [main/INFO]: [de.keksuccino.fancymenu.core.FMCore:<init>:15]: [FANCYMENU] LOADING CORE PLUGIN!
+[14:39:03] [main/DEBUG]: Enqueued coremod FMCore
+[14:39:03] [main/DEBUG]: Instantiating coremod class KonkreteCore
+[14:39:03] [main/WARN]: The coremod de.keksuccino.konkrete.core.KonkreteCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:03] [main/WARN]: The coremod KonkreteCore (de.keksuccino.konkrete.core.KonkreteCore) is not signed!
+[14:39:03] [main/INFO]: [de.keksuccino.konkrete.core.KonkreteCore:<init>:14]: [KONKRETE] LOADING CORE PLUGIN!
+[14:39:03] [main/INFO]: [de.keksuccino.konkrete.core.MixinConfigLoader:loadConfigs:29]: [KONKRETE] Loading Mixin Config: fancymenu.general.mixin.json
+[14:39:03] [main/INFO]: Compatibility level set to JAVA_8
+[14:39:03] [main/DEBUG]: Enqueued coremod KonkreteCore
+[14:39:03] [main/DEBUG]: Instantiating coremod class MalisisCorePlugin
+[14:39:03] [main/WARN]: The coremod net.malisis.core.asm.MalisisCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[14:39:03] [main/WARN]: The coremod MalisisCorePlugin (net.malisis.core.asm.MalisisCorePlugin) is not signed!
+[14:39:03] [main/DEBUG]: Enqueued coremod MalisisCorePlugin
+[14:39:03] [main/DEBUG]: Instantiating coremod class ParticleCullingLoadingPlugin
+[14:39:03] [main/DEBUG]: The coremod bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin requested minecraft version 1.12.2 and minecraft is 1.12.2. It will be loaded.
+[14:39:03] [main/WARN]: The coremod ParticleCullingLoadingPlugin (bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin) is not signed!
+[14:39:03] [main/DEBUG]: Enqueued coremod ParticleCullingLoadingPlugin
+[14:39:03] [main/INFO]: Loading tweak class name guichaguri.betterfps.tweaker.BetterFpsTweaker
+[14:39:03] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:39:03] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:39:03] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:39:03] [main/WARN]: Tweak class name org.spongepowered.asm.launch.MixinTweaker has already been visited -- skipping
+[14:39:03] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:39:03] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:39:03] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:39:03] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:03] [main/DEBUG]: Injecting coremod FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\} class transformers
+[14:39:03] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:39:03] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:39:03] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:39:03] [main/TRACE]: Registering transformer net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[14:39:03] [main/DEBUG]: Injection complete
+[14:39:03] [main/DEBUG]: Running coremod plugin for FMLCorePlugin \{net.minecraftforge.fml.relauncher.FMLCorePlugin\}
+[14:39:03] [main/DEBUG]: Running coremod plugin FMLCorePlugin
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class acf$a (acf$a) and the actual class. Checksum on disk is 45c8b4e4, in patch b0bfa8b9. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class acu$1 (acu$1) and the actual class. Checksum on disk is 9be9a3b3, in patch bc1b9646. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class acu$a (acu$a) and the actual class. Checksum on disk is 8f6ac290, in patch 5773a51. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class acu$b (acu$b) and the actual class. Checksum on disk is e9684071, in patch 196d260a. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class acu$b$1 (acu$b$1) and the actual class. Checksum on disk is 6ba9bc4e, in patch 3bb6ae6b. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class acu$c (acu$c) and the actual class. Checksum on disk is e5a9d6fd, in patch a5714a43. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class aeh$a (aeh$a) and the actual class. Checksum on disk is ff1fcdb2, in patch 524fbca0. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class afd$1 (afd$1) and the actual class. Checksum on disk is 4c80d07a, in patch 44f49f1b. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class afd$a (afd$a) and the actual class. Checksum on disk is 8b6ec81a, in patch 6fb2c191. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class afd$b (afd$b) and the actual class. Checksum on disk is b16b7c18, in patch 19d06852. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$1 (bib$1) and the actual class. Checksum on disk is e7ae83b7, in patch 6526805c. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$10 (bib$10) and the actual class. Checksum on disk is 3ebc9902, in patch 9e249112. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$11 (bib$11) and the actual class. Checksum on disk is 101b8964, in patch b3ff80f2. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$12 (bib$12) and the actual class. Checksum on disk is 13b9896a, in patch c26a80ff. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$13 (bib$13) and the actual class. Checksum on disk is 8b1fba92, in patch 8b06b264. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$14 (bib$14) and the actual class. Checksum on disk is 3ccf80a7, in patch baee7987. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$15 (bib$15) and the actual class. Checksum on disk is 4a08950f, in patch b2bb90de. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$16 (bib$16) and the actual class. Checksum on disk is 6bf4311f, in patch f1df2f26. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$2 (bib$2) and the actual class. Checksum on disk is c4348467, in patch 720f7f41. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$3 (bib$3) and the actual class. Checksum on disk is 36a2ce8, in patch 8bba2560. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$4 (bib$4) and the actual class. Checksum on disk is b95f8e98, in patch cd938654. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$5 (bib$5) and the actual class. Checksum on disk is af8f9a45, in patch c7ff92f0. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$6 (bib$6) and the actual class. Checksum on disk is 1e3f7f7e, in patch b77976f8. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$7 (bib$7) and the actual class. Checksum on disk is c756680, in patch eeb85f07. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$8 (bib$8) and the actual class. Checksum on disk is 391424d5, in patch c0248d8b. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bib$9 (bib$9) and the actual class. Checksum on disk is 58b9874, in patch 77079093. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bid$2 (bid$2) and the actual class. Checksum on disk is 2759eb66, in patch f59ca33. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bid$a (bid$a) and the actual class. Checksum on disk is f26afa03, in patch 14e614f7. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class biq$1 (biq$1) and the actual class. Checksum on disk is 4498c8f7, in patch 4a19bf64. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bjd$1 (bjd$1) and the actual class. Checksum on disk is dca77754, in patch 7a365ef1. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bkr$1 (bkr$1) and the actual class. Checksum on disk is 383acb21, in patch 851ea28b. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class brz$1 (brz$1) and the actual class. Checksum on disk is f8dbd3d4, in patch 6f08c450. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class brz$1$1 (brz$1$1) and the actual class. Checksum on disk is 16af7e54, in patch 4cdb5d62. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class brz$2 (brz$2) and the actual class. Checksum on disk is fd920415, in patch 5427f13d. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class brz$3 (brz$3) and the actual class. Checksum on disk is 798eb9f4, in patch 7f61b180. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buq$1 (buq$1) and the actual class. Checksum on disk is ec27ab2c, in patch 8c81a026. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buq$2 (buq$2) and the actual class. Checksum on disk is 8ae4b1ee, in patch f1e9988d. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buq$3 (buq$3) and the actual class. Checksum on disk is 16f883b2, in patch 55a4d00b. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buu$1 (buu$1) and the actual class. Checksum on disk is 5cd57e30, in patch 68426693. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buy$1 (buy$1) and the actual class. Checksum on disk is 6cb39a27, in patch 4f188c3f. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buy$2 (buy$2) and the actual class. Checksum on disk is 26668407, in patch 87b05ded. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class buy$a (buy$a) and the actual class. Checksum on disk is e7a8a089, in patch e1349741. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$1 (bzw$1) and the actual class. Checksum on disk is 777aa8bb, in patch 934a9d05. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$10 (bzw$10) and the actual class. Checksum on disk is d88d6e11, in patch 844b6489. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$2 (bzw$2) and the actual class. Checksum on disk is a5cd6c14, in patch 9913628c. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$3 (bzw$3) and the actual class. Checksum on disk is e0e0a12b, in patch 13c39563. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$4 (bzw$4) and the actual class. Checksum on disk is ae9da8b0, in patch cd4a9ce8. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$5 (bzw$5) and the actual class. Checksum on disk is 5dd9a186, in patch 8c8895be. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$6 (bzw$6) and the actual class. Checksum on disk is 6c226d15, in patch ce1a6181. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$7 (bzw$7) and the actual class. Checksum on disk is 70606a23, in patch 96cd6095. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$8 (bzw$8) and the actual class. Checksum on disk is f2fe68e5, in patch 44c85f57. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class bzw$9 (bzw$9) and the actual class. Checksum on disk is 85b26a46, in patch ab4860b8. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class caa$1 (caa$1) and the actual class. Checksum on disk is 483c8153, in patch f79863c2. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class cho$2 (cho$2) and the actual class. Checksum on disk is cced15e8, in patch 7c50fa72. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class cho$3 (cho$3) and the actual class. Checksum on disk is ab35722e, in patch 7c7457ac. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class cii$1 (cii$1) and the actual class. Checksum on disk is ac437b39, in patch e9d55b6f. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class cii$a (cii$a) and the actual class. Checksum on disk is ab00ad90, in patch d4e8a328. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class ni$16$1 (ni$16$1) and the actual class. Checksum on disk is 1e1d8b35, in patch f375bd. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class ni$17$1 (ni$17$1) and the actual class. Checksum on disk is 612b8b8e, in patch 4541761a. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class ni$4 (ni$4) and the actual class. Checksum on disk is 713ad12, in patch f9289719. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class ni$a (ni$a) and the actual class. Checksum on disk is 78b4d9a, in patch 1fcf2102. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class ni$b (ni$b) and the actual class. Checksum on disk is 3e245656, in patch 495f4de1. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class pa$1 (pa$1) and the actual class. Checksum on disk is 50020b4e, in patch 1a02eec0. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class pa$2 (pa$2) and the actual class. Checksum on disk is 71d05a74, in patch a0444e4c. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class pa$3 (pa$3) and the actual class. Checksum on disk is d9a8a341, in patch 780f913e. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class pa$4 (pa$4) and the actual class. Checksum on disk is b8ee7fb3, in patch 290e117f. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/FATAL]: There is a binary discrepancy between the expected input class rl$a (rl$a) and the actual class. Checksum on disk is 3125c080, in patch 4f31a437. Things are probably about to go very wrong. Did you put something into the jar file?
+[14:39:05] [main/FATAL]: FML is going to ignore this error, note that the patch will not be applied, and there is likely to be a malfunctioning behaviour, including not running at all
+[14:39:05] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:39:06] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14:39:06] [main/DEBUG]: Coremod plugin class FMLCorePlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for FMLForgePlugin \{net.minecraftforge.classloading.FMLForgePlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin FMLForgePlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class FMLForgePlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod AdvancedRocketryPlugin \{zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin\} class transformers
+[14:39:06] [main/TRACE]: Registering transformer zmaster587.advancedRocketry.asm.ClassTransformer
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for AdvancedRocketryPlugin \{zmaster587.advancedRocketry.asm.AdvancedRocketryPlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin AdvancedRocketryPlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class AdvancedRocketryPlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for CreativePatchingLoader \{com.creativemd.creativecore.core.CreativePatchingLoader\}
+[14:39:06] [main/DEBUG]: Running coremod plugin CreativePatchingLoader
+[14:39:06] [main/DEBUG]: Coremod plugin class CreativePatchingLoader run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod EntityCullingPlugin \{meldexun.entityculling.plugin.EntityCullingPlugin\} class transformers
+[14:39:06] [main/TRACE]: Registering transformer meldexun.entityculling.plugin.EntityCullingTransformer
+[14:39:06] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: The following ClassTransformer is being removed for compaibility $wrapper.meldexun.entityculling.plugin.EntityCullingTransformer
+[14:39:06] [main/ERROR]: A critical problem occurred registering the ASM transformer class $wrapper.meldexun.entityculling.plugin.EntityCullingTransformer
+java.lang.ClassNotFoundException: $wrapper.meldexun.entityculling.plugin.EntityCullingTransformer
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.LaunchClassLoader.registerTransformer(LaunchClassLoader.java:88) [launchwrapper-1.12.jar:?]
+	at net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper.injectIntoClassLoader(CoreModManager.java:132) [forge-1.12.2-14.23.5.2854.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	... 6 more
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for EntityCullingPlugin \{meldexun.entityculling.plugin.EntityCullingPlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin EntityCullingPlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class EntityCullingPlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod CorePlugin \{com.endertech.minecraft.forge.coremod.CorePlugin\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for CorePlugin \{com.endertech.minecraft.forge.coremod.CorePlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin CorePlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class CorePlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod IvToolkit \{ivorius.ivtoolkit.IvToolkitLoadingPlugin\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for IvToolkit \{ivorius.ivtoolkit.IvToolkitLoadingPlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin IvToolkit
+[14:39:06] [main/DEBUG]: Coremod plugin class IvToolkitLoadingPlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod LittlePatchingLoader \{com.creativemd.littletiles.LittlePatchingLoader\} class transformers
+[14:39:06] [main/TRACE]: Registering transformer com.creativemd.littletiles.LittleTilesTransformer
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for LittlePatchingLoader \{com.creativemd.littletiles.LittlePatchingLoader\}
+[14:39:06] [main/DEBUG]: Running coremod plugin LittlePatchingLoader
+[14:39:06] [main/DEBUG]: Coremod plugin class LittlePatchingLoader run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\} class transformers
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.ChunkTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.EntityPlayerTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.AbstractClientPlayerTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.WorldClientTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.EntityPlayerSPTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.PlayerListTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.GuiIngameForgeTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.GuiBossOverlayTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.common.core.transformer.ModelRendererTransformer
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for XaeroMinimapPlugin \{xaero.common.core.XaeroMinimapPlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin XaeroMinimapPlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class XaeroMinimapPlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:06] [main/DEBUG]: Injecting coremod XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\} class transformers
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.ChunkTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.EntityPlayerTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.AbstractClientPlayerTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.WorldClientTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.PlayerListTransformer
+[14:39:06] [main/TRACE]: Registering transformer xaero.map.core.transformer.BiomeColorHelperTransformer
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for XaeroWorldMapPlugin \{xaero.map.core.XaeroWorldMapPlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin XaeroWorldMapPlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class XaeroWorldMapPlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class org.spongepowered.asm.launch.MixinTweaker
+[14:39:06] [main/INFO]: Initialised Mixin FML Remapper Adapter with net.minecraftforge.fml.common.asm.transformers.deobf.FMLDeobfuscatingRemapper@21e20ad5
+[14:39:06] [main/DEBUG]: Injecting coremod FMCore \{de.keksuccino.fancymenu.core.FMCore\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for FMCore \{de.keksuccino.fancymenu.core.FMCore\}
+[14:39:06] [main/DEBUG]: Running coremod plugin FMCore
+[14:39:06] [main/DEBUG]: Coremod plugin class FMCore run successfully
+[14:39:06] [main/DEBUG]: Injecting coremod KonkreteCore \{de.keksuccino.konkrete.core.KonkreteCore\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for KonkreteCore \{de.keksuccino.konkrete.core.KonkreteCore\}
+[14:39:06] [main/DEBUG]: Running coremod plugin KonkreteCore
+[14:39:06] [main/DEBUG]: Coremod plugin class KonkreteCore run successfully
+[14:39:06] [main/DEBUG]: Injecting coremod MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for MalisisCorePlugin \{net.malisis.core.asm.MalisisCorePlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin MalisisCorePlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class MalisisCorePlugin run successfully
+[14:39:06] [main/DEBUG]: Injecting coremod ParticleCullingLoadingPlugin \{bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin\} class transformers
+[14:39:06] [main/DEBUG]: Injection complete
+[14:39:06] [main/DEBUG]: Running coremod plugin for ParticleCullingLoadingPlugin \{bl4ckscor3.mod.particleculling.ParticleCullingLoadingPlugin\}
+[14:39:06] [main/DEBUG]: Running coremod plugin ParticleCullingLoadingPlugin
+[14:39:06] [main/DEBUG]: Coremod plugin class ParticleCullingLoadingPlugin run successfully
+[14:39:06] [main/INFO]: Calling tweak class guichaguri.betterfps.tweaker.BetterFpsTweaker
+[14:39:06] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: The following ClassTransformer is being removed for compaibility guichaguri.betterfps.transformers.PatcherTransformer
+[14:39:06] [main/ERROR]: A critical problem occurred registering the ASM transformer class guichaguri.betterfps.transformers.PatcherTransformer
+java.lang.ClassNotFoundException: guichaguri.betterfps.transformers.PatcherTransformer
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.LaunchClassLoader.registerTransformer(LaunchClassLoader.java:88) [launchwrapper-1.12.jar:?]
+	at guichaguri.betterfps.tweaker.BetterFpsTweaker.injectIntoClassLoader(BetterFpsTweaker.java:72) [BetterFps-1.4.8.jar:?]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.NullPointerException
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:182) ~[launchwrapper-1.12.jar:?]
+	... 6 more
+[14:39:06] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:39:06] [main/DEBUG]: Validating minecraft
+[14:39:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:07] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:08] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:08] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:39:08] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:39:08] [main/INFO]: Loading tweak class name org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[14:39:08] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:39:08] [main/INFO]: Calling tweak class org.spongepowered.asm.mixin.EnvironmentStateTweaker
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftForgeTweaker:dbg:55]: MinecriftForgeTweaker: getLaunchArguments
+[14:39:08] [main/INFO]: [optifine.OptiFineForgeTweaker:dbg:56]: OptiFineForgeTweaker: getLaunchArguments
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftForgeTweaker:dbg:55]: MinecriftForgeTweaker: getLaunchTarget
+[14:39:08] [main/INFO]: [de.keksuccino.fancymenu.mixin.FMMixinPlugin:shouldApplyMixin:24]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButton | TO TARGET: net.minecraft.client.gui.GuiButton
+[14:39:08] [main/INFO]: [de.keksuccino.fancymenu.mixin.FMMixinPlugin:shouldApplyMixin:24]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButtonImage | TO TARGET: net.minecraft.client.gui.GuiButtonImage
+[14:39:08] [main/INFO]: [de.keksuccino.fancymenu.mixin.FMMixinPlugin:shouldApplyMixin:24]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiSlot | TO TARGET: net.minecraft.client.gui.GuiSlot
+[14:39:08] [main/INFO]: [de.keksuccino.fancymenu.mixin.FMMixinPlugin:shouldApplyMixin:24]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiScreen | TO TARGET: net.minecraft.client.gui.GuiScreen
+[14:39:08] [main/INFO]: [de.keksuccino.fancymenu.mixin.FMMixinPlugin:shouldApplyMixin:24]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinGuiButtonLanguage | TO TARGET: net.minecraft.client.gui.GuiButtonLanguage
+[14:39:08] [main/INFO]: [de.keksuccino.fancymenu.mixin.FMMixinPlugin:shouldApplyMixin:24]: [FANCYMENU] APPLYING MIXIN: de.keksuccino.fancymenu.mixin.client.MixinMinecraft | TO TARGET: net.minecraft.client.Minecraft
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite bjr net.minecraft.client.gui.GuiSlot (8801 != 9531)
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite blk net.minecraft.client.gui.GuiScreen (15142 != 20639)
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite bib net.minecraft.client.Minecraft (71351 != 105483)
+[14:39:08] [main/INFO]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.Minecraft ...
+[14:39:08] [main/INFO]: A re-entrant transformer '$wrapper.lumien.resourceloader.asm.ClassTransformer' was detected and will no longer process meta class data
+[14:39:08] [main/INFO]: Patching class net.minecraft.world.World
+[14:39:08] [main/INFO]: Patching func_184144_a
+[14:39:08] [main/INFO]: Patched  func_184144_a
+[14:39:08] [main/INFO]: Patched class  net.minecraft.world.World
+[14:39:08] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class axw net.minecraft.world.chunk.Chunk
+[14:39:08] [main/INFO]: [xaero.map.core.transformer.ClassNodeTransformer:transform:26]: Transforming class net.minecraft.world.chunk.Chunk
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite pa net.minecraft.network.NetHandlerPlayServer (36006 != 40002)
+[14:39:08] [main/INFO]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.network.NetHandlerPlayServer ...
+[14:39:08] [main/INFO]: Patching class net.minecraft.network.NetHandlerPlayServer
+[14:39:08] [main/INFO]: Patching func_147347_a
+[14:39:08] [main/INFO]: Patched  func_147347_a
+[14:39:08] [main/INFO]: Patching func_147345_a
+[14:39:08] [main/INFO]: Patched  func_147345_a
+[14:39:08] [main/INFO]: Patched class  net.minecraft.network.NetHandlerPlayServer
+[14:39:08] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:preTransform:230]: Transforming Class [net.minecraft.client.renderer.texture.TextureMap], Method [registerSprite]
+[14:39:08] [main/INFO]: [team.chisel.ctm.client.asm.CTMTransformer:finishTransform:242]: Transforming net.minecraft.client.renderer.texture.TextureMap Finished.
+[14:39:08] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite bzw net.minecraft.client.renderer.RenderItem (38911 != 45152)
+[14:39:09] [main/INFO]: Transforming Class [net.minecraft.client.renderer.RenderItem], Method [func_180453_a, func_184391_a]
+[14:39:09] [main/INFO]: Transforming failed. Applying ersatz patch...
+[14:39:09] [main/WARN]: Ersatz patch applied, things may break!
+[14:39:09] [main/INFO]: Transforming net.minecraft.client.renderer.RenderItem Finished.
+[14:39:09] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite buq net.minecraft.client.renderer.EntityRenderer (38152 != 97899)
+[14:39:09] [main/INFO]: Patching class net.minecraft.client.renderer.EntityRenderer
+[14:39:09] [main/INFO]: Patching func_78473_a
+[14:39:09] [main/INFO]: Patched  getMouseOver
+[14:39:09] [main/INFO]: Patched  func_78473_a
+[14:39:09] [main/INFO]: Patching func_189692_a
+[14:39:09] [main/INFO]: Patched  drawNameplate
+[14:39:09] [main/INFO]: Patched  func_189692_a
+[14:39:09] [main/INFO]: Patched class  net.minecraft.client.renderer.EntityRenderer
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: java.io.IOException: MD5 not matching, name: bus$r.class, saved: e5e06c433c0c18e59108c363823435c9, patched: cff043b81af53ef8d9cf1437b24623d3
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at optifine.OptiFineClassTransformer.getOptiFineResourcePatched(OptiFineClassTransformer.java:205)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at optifine.OptiFineClassTransformer.getOptiFineResource(OptiFineClassTransformer.java:129)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at optifine.OptiFineClassTransformer.transform(OptiFineClassTransformer.java:75)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.LegacyTransformerHandle.transformClassBytes(LegacyTransformerHandle.java:80)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.applyTransformers(MixinServiceLaunchWrapper.java:549)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:515)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:593)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:2005)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.readInnerClasses(MixinInfo.java:429)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:339)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:801)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:567)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.Class.forName0(Native Method)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.Class.forName(Class.java:348)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: java.io.IOException: MD5 not matching, name: bus$l.class, saved: 8f2b9aa4a64804bf07cddf49aaad3fd5, patched: c9e4e25d21d8eb053262aa440540f716
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at optifine.OptiFineClassTransformer.getOptiFineResourcePatched(OptiFineClassTransformer.java:205)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at optifine.OptiFineClassTransformer.getOptiFineResource(OptiFineClassTransformer.java:129)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at optifine.OptiFineClassTransformer.transform(OptiFineClassTransformer.java:75)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.LegacyTransformerHandle.transformClassBytes(LegacyTransformerHandle.java:80)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.applyTransformers(MixinServiceLaunchWrapper.java:549)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassBytes(MixinServiceLaunchWrapper.java:515)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.service.mojang.MixinServiceLaunchWrapper.getClassNode(MixinServiceLaunchWrapper.java:593)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.ClassInfo.forName(ClassInfo.java:2005)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.readInnerClasses(MixinInfo.java:429)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo$State.validate(MixinInfo.java:339)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.validate(MixinInfo.java:913)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinConfig.postInitialise(MixinConfig.java:801)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.prepareConfigs(MixinProcessor.java:567)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.select(MixinProcessor.java:462)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.checkSelect(MixinProcessor.java:438)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:290)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:234)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClassBytes(MixinTransformer.java:202)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at org.spongepowered.asm.mixin.transformer.Proxy.transform(Proxy.java:72)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.Class.forName0(Native Method)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at java.lang.Class.forName(Class.java:348)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:131)
+[14:39:09] [main/INFO]: [optifine.OptiFineClassTransformer:getOptiFineResourcePatched:212]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+[14:39:09] [main/INFO]: Launching wrapped minecraft {org.vivecraft.main.VivecraftMain}
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:72]: ************** Vivecraft classloader pre-filter ***************
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: org.vivecraft.tweaker.MinecriftClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: optifine.OptiFineClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: org.spongepowered.asm.mixin.transformer.Proxy
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.zmaster587.advancedRocketry.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.com.creativemd.littletiles.LittleTilesTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.ChunkTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.GuiIngameForgeTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.GuiBossOverlayTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.common.core.transformer.ModelRendererTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.ChunkTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.EntityPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.AbstractClientPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.WorldClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.PlayerListTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.xaero.map.core.transformer.BiomeColorHelperTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: guichaguri.betterfps.transformers.MathTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: com.creativemd.littletiles.LittleTilesAfterTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: org.spongepowered.asm.mixin.transformer.Proxy
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.li.cil.oc.common.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.lumien.perfectspawn.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.lumien.resourceloader.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.blusunrize.immersiveengineering.common.asm.IEClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.uk.co.mysterymayhem.gravitymod.asm.Transformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.team.chisel.ctm.client.asm.CTMTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.com.enderio.core.common.transform.EnderCoreTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: $wrapper.com.enderio.core.common.transform.SimpleMixinPatcher
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:79]: org.spongepowered.asm.mixin.transformer.Proxy
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:137]: ************** Vivecraft classloader filter ***************
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.PatchingTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: optifine.OptiFineClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: org.vivecraft.tweaker.MinecriftClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: org.vivecraft.asm.VivecraftASMTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: org.spongepowered.asm.mixin.transformer.Proxy
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.net.minecraftforge.fml.common.asm.transformers.SideTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriptionTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.net.minecraftforge.fml.common.asm.transformers.EventSubscriberTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.net.minecraftforge.fml.common.asm.transformers.SoundEngineFixTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.zmaster587.advancedRocketry.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.com.creativemd.littletiles.LittleTilesTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.ChunkTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.NetHandlerPlayClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.EntityPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.AbstractClientPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.WorldClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.EntityPlayerSPTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.PlayerListTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.GuiIngameForgeTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.GuiBossOverlayTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.common.core.transformer.ModelRendererTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.ChunkTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.NetHandlerPlayClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.EntityPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.AbstractClientPlayerTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.WorldClientTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.PlayerListTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.xaero.map.core.transformer.BiomeColorHelperTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: guichaguri.betterfps.transformers.MathTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.DeobfuscationTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.AccessTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: com.creativemd.littletiles.LittleTilesAfterTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.ModAccessTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.ItemStackTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.ItemBlockTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.ItemBlockSpecialTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.PotionEffectTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: org.spongepowered.asm.mixin.transformer.Proxy
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.li.cil.oc.common.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.lumien.perfectspawn.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.lumien.resourceloader.asm.ClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.blusunrize.immersiveengineering.common.asm.IEClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.uk.co.mysterymayhem.gravitymod.asm.Transformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.team.chisel.ctm.client.asm.CTMTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.com.enderio.core.common.transform.EnderCoreTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: $wrapper.com.enderio.core.common.transform.SimpleMixinPatcher
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: net.minecraftforge.fml.common.asm.transformers.TerminalTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: org.spongepowered.asm.mixin.transformer.Proxy
+[14:39:09] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:140]: org.vivecraft.tweaker.MinecriftClassTransformer
+[14:39:09] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite net.minecraft.client.main.Main net.minecraft.client.main.Main (7496 != 8208)
+[14:39:09] [main/INFO]: [org.vivecraft.asm.ObfNames:<clinit>:28]: Loading obf mappings...
+[14:39:09] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite bib net.minecraft.client.Minecraft (74295 != 105483)
+[14:39:09] [main/INFO]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.client.Minecraft ...
+[14:39:09] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite blk net.minecraft.client.gui.GuiScreen (17653 != 20639)
+[14:39:10] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite blb net.minecraft.client.gui.GuiSleepMP (1939 != 1876)
+[14:39:10] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite bkn net.minecraft.client.gui.GuiChat (3854 != 4187)
+[14:39:10] [main/INFO]: [com.creativemd.creativecore.transformer.CreativeTransformer:transform:49]: [littletiles] Patched net.minecraft.entity.Entity ...
+[14:39:10] [main/INFO]: Patching class net.minecraft.entity.Entity
+[14:39:10] [main/INFO]: Patching func_70091_d
+[14:39:10] [main/INFO]: Patched  func_70091_d
+[14:39:10] [main/INFO]: Patching func_70091_d
+[14:39:10] [main/INFO]: Patched  func_70091_d
+[14:39:10] [main/INFO]: Patching func_191958_b
+[14:39:10] [main/INFO]: Patched  func_191958_b
+[14:39:10] [main/INFO]: Patched class  net.minecraft.entity.Entity
+[14:39:10] [main/INFO]: [org.vivecraft.tweaker.MinecriftClassTransformer:debug:277]: Vivecraft: Overwrite bud net.minecraft.client.entity.EntityPlayerSP (23378 != 34827)
+[14:39:10] [main/INFO]: [xaero.common.core.transformer.ClassNodeTransformer:transform:26]: Transforming class bud net.minecraft.client.entity.EntityPlayerSP
+[14:39:10] [main/INFO]: Patching class net.minecraft.client.entity.EntityPlayerSP
+[14:39:10] [main/INFO]: Patching func_175161_p
+[14:39:10] [main/INFO]: Patched  func_175161_p
+[14:39:10] [main/INFO]: Patching isHeadspaceFree
+[14:39:10] [main/INFO]: Patched  isHeadspaceFree
+[14:39:10] [main/INFO]: Patching func_145771_j
+[14:39:10] [main/INFO]: Patched  func_145771_j
+[14:39:10] [main/INFO]: Patching func_70636_d
+[14:39:10] [main/INFO]: Patched  func_70636_d
+[14:39:10] [main/INFO]: Patching func_70091_d
+[14:39:10] [main/INFO]: [org.vivecraft.main.VivecraftMain:main:155]: ************** Vivecraft critical error ***************
+[14:39:10] [main/ERROR]: Unable to launch
+java.lang.reflect.InvocationTargetException: null
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135) [launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+Caused by: java.lang.RuntimeException: java.lang.reflect.InvocationTargetException
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:157) ~[VivecraftMain.class:?]
+	... 6 more
+Caused by: java.lang.reflect.InvocationTargetException
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:153) ~[VivecraftMain.class:?]
+	... 6 more
+Caused by: java.lang.NoClassDefFoundError: net/minecraft/client/entity/EntityPlayerSP
+	at net.minecraft.client.main.Main.main(Main.java:45) ~[Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:153) ~[VivecraftMain.class:?]
+	... 6 more
+Caused by: java.lang.ClassNotFoundException: net.minecraft.client.entity.EntityPlayerSP
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(Main.java:45) ~[Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:153) ~[VivecraftMain.class:?]
+	... 6 more
+Caused by: net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerException: Exception in class transformer uk.co.mysterymayhem.gravitymod.asm.Transformer@3cdff901 from coremod mysttmtgravitymod
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:260) ~[forge-1.12.2-14.23.5.2854.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(Main.java:45) ~[Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:153) ~[VivecraftMain.class:?]
+	... 6 more
+Caused by: uk.co.mysterymayhem.gravitymod.asm.util.patching.PatchFailedException: [UpAndDown] Exception thrown by 'uk.co.mysterymayhem.gravitymod.asm.util.patching.MethodPatcher$MethodPatcherIterativeImpl@3c9ef6e9' during patching of 'net.minecraft.client.entity.EntityPlayerSP::func_70091_d'
+	at uk.co.mysterymayhem.gravitymod.asm.Transformer.die(Transformer.java:128) ~[Transformer.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.ClassPatcher.patchClass(ClassPatcher.java:91) ~[ClassPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.ClassPatcher.apply(ClassPatcher.java:64) ~[ClassPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.ClassPatcher.apply(ClassPatcher.java:23) ~[ClassPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.Transformer.transform(Transformer.java:360) ~[Transformer.class:?]
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:256) ~[forge-1.12.2-14.23.5.2854.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(Main.java:45) ~[Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:153) ~[VivecraftMain.class:?]
+	... 6 more
+Caused by: uk.co.mysterymayhem.gravitymod.asm.util.patching.PatchFailedException: [UpAndDown] Was expecting DSTORE _ after GETFIELD posX, instead got org.objectweb.asm.tree.JumpInsnNode@1f7cec93
+	at uk.co.mysterymayhem.gravitymod.asm.Transformer.die(Transformer.java:124) ~[Transformer.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.patches.PatchEntityPlayerSP.moveEntityPatch(PatchEntityPlayerSP.java:206) ~[PatchEntityPlayerSP.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.patches.PatchEntityPlayerSP$$Lambda$49/201245433.test(Unknown Source) ~[?:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.InsnPatcher$InsnPatcherImpl.tryPatch(InsnPatcher.java:140) ~[InsnPatcher$InsnPatcherImpl.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.MethodPatcher.patchMethod(MethodPatcher.java:97) ~[MethodPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.ClassPatcher.patchClass(ClassPatcher.java:88) ~[ClassPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.ClassPatcher.apply(ClassPatcher.java:64) ~[ClassPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.util.patching.ClassPatcher.apply(ClassPatcher.java:23) ~[ClassPatcher.class:?]
+	at uk.co.mysterymayhem.gravitymod.asm.Transformer.transform(Transformer.java:360) ~[Transformer.class:?]
+	at net.minecraftforge.fml.common.asm.ASMTransformerWrapper$TransformerWrapper.transform(ASMTransformerWrapper.java:256) ~[forge-1.12.2-14.23.5.2854.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.runTransformers(LaunchClassLoader.java:279) ~[launchwrapper-1.12.jar:?]
+	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:176) ~[launchwrapper-1.12.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424) ~[?:1.8.0_51]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357) ~[?:1.8.0_51]
+	at net.minecraft.client.main.Main.main(Main.java:45) ~[Main.class:?]
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_51]
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_51]
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_51]
+	at java.lang.reflect.Method.invoke(Method.java:497) ~[?:1.8.0_51]
+	at org.vivecraft.main.VivecraftMain.main(VivecraftMain.java:153) ~[VivecraftMain.class:?]
+	... 6 more
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: net.minecraftforge.fml.relauncher.FMLSecurityManager$ExitTrappedException
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraftforge.fml.relauncher.FMLSecurityManager.checkPermission(FMLSecurityManager.java:49)
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.SecurityManager.checkExit(SecurityManager.java:761)
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.Runtime.exit(Runtime.java:107)
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at java.lang.System.exit(System.java:971)
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:138)
+[14:39:10] [main/INFO]: [java.lang.ThreadGroup:uncaughtException:1052]: 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
